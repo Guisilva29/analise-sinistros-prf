@@ -14,7 +14,7 @@ Para garantir boas práticas de engenharia de dados, versionamento eficiente e c
 
 > **Nota sobre os arquivos de dados:** As pastas de dados brutos (`1_dados_brutos/`), banco de dados (`2_banco_de_dados/`) e dados tratados (`3_dados_finais/`) **não foram enviadas para este repositório**. 
 > 
-> * **Por que não subimos tudo?** Arquivos de dados em massa (como os `.csv` anuais da PRF e bases SQLite) possuem alta volumetria e pesam centenas de megabytes. Subi-los diretamente violaria os limites de tamanho do GitHub, gerando erros de conexão (*HTTP 408 Timeout*). Em projetos de portfólio de mercado, a melhor prática é versionar apenas a inteligência (código e visualizações) e disponibilizar os scripts para processamento sob demanda.
+> * **Por que não subi tudo?** Arquivos de dados em massa (como os `.csv` anuais da PRF e bases SQLite) possuem alta volumetria e pesam centenas de megabytes. Subi-los diretamente violaria os limites de tamanho do GitHub, gerando erros de conexão (*HTTP 408 Timeout*). Em projetos de portfólio de mercado, a melhor prática é versionar apenas a inteligência (código e visualizações) e disponibilizar os scripts para processamento sob demanda.
 
 ---
 
