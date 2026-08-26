@@ -23,9 +23,10 @@ Para garantir boas práticas de engenharia de dados, versionamento eficiente e c
 * **Modelagem:** SQL (SQLite) para estruturação do banco de dados relacional.
 * **Visualização:** Power BI para construção do dashboard executivo e medidas DAX.
 
-![Python](https://shields.io)
-![SQL](https://shields.io)
-![Power Bi](https://shields.io)
+<img src="https://shields.io" alt="Python">
+<img src="https://shields.io" alt="SQL">
+<img src="https://shields.io" alt="Power BI">
+
 
 
 ---
